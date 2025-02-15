@@ -30,7 +30,7 @@ Meu nome é Lucas Martins, tenho 19 anos e sou de Brasília, DF. Concluí o curs
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyz7z&layout=compact&theme=highcontrast&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyz7z&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
