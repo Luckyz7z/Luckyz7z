@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Martins, tenho 19 anos e sou de Brasília, DF. Concluí o curso técnico em Informática e atualmente curso Ciências da Computação na UNIP. Sou apaixonado por tecnologia e estou sempre em busca de adquirir mais conhecimento e explorar novas áreas, aplicando o que aprendo em projetos que contribuam para meu desenvolvimento profissional.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Luckyz7z/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-144819314/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lucasbsb04@gmail.com)
 ---
 ### 🤖 Linguagens e Tecnologias
