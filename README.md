@@ -17,6 +17,6 @@ Meu nome é Lucas Martins, tenho 19 anos e sou de Brasília, DF. Concluí o curs
 
 ### 📊 Estatísticas
 
-<img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Luckyz7z&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"> <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyz7z&layout=compact&theme=highcontrast&locale=pt-br">
+<img height="160em"  src="https://github-readme-stats.vercel.app/api?username=Luckyz7z&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br"> <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckyz7z&layout=compact&theme=highcontrast&locale=pt-br"> <img height="400em" src= https://i.imgur.com/Y09FdAZ.gif>
 
 
