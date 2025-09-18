@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Lucas Martins
+# 👩🏻‍💻 Lucas Martins
 
 Meu nome é Lucas Martins, tenho 19 anos e sou de Brasília, DF. Concluí o curso técnico em Informática e atualmente curso Ciências da Computação na UNIP. Sou apaixonado por tecnologia e estou sempre em busca de adquirir mais conhecimento e explorar novas áreas, aplicando o que aprendo em projetos que contribuam para meu desenvolvimento profissional.
 
